@@ -1,0 +1,19 @@
+.container-bg {
+  background-position: center;
+  background-size: cover;
+}
+.container-inner {
+  padding-top: 20em;
+  padding-bottom: 20em;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.center-icon span {
+  background-color: #3273dc;
+  padding: 1em;
+  border-radius: 50%;
+  color: white;
+}
+.padded {
+  padding: 2em;
+}
